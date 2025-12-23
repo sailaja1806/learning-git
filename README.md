@@ -43,7 +43,8 @@ git merge bugfix
 ```
 
 Level 4: Rebase introduction
-<img width="1916" height="903" alt="Screenshot 2025-12-23 104932" src="https://github.com/user-attachments/assets/d736036e-7fe7-4263-baf5-29eccb802197" />
+<img width="1919" height="902" alt="Screenshot 2025-12-23 121909" src="https://github.com/user-attachments/assets/fe598b6e-b559-4ce9-a9c0-9e16d1408360" />
+
 ### 🛠 Commands used
 ```bash
 git checkout -b bugfix
