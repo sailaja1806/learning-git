@@ -30,6 +30,28 @@ git branch bugfix
 git checkout bugfix
 ```
 
-* Add **Level 3+ explanations**
+Level 3: Merging in Git
+<img width="1910" height="919" alt="Screenshot 2025-12-23 104719" src="https://github.com/user-attachments/assets/0761136e-a553-414a-8161-5768a192fc41" />
+### 🛠 Commands Used
+```bash
+git branch bugfix
+git checkout bugfix
+git commit
+git checkout main
+git commit
+git merge bugfix
+```
 
-Just tell me 👍
+Level 4: Rebase introduction
+<img width="1916" height="903" alt="Screenshot 2025-12-23 104932" src="https://github.com/user-attachments/assets/d736036e-7fe7-4263-baf5-29eccb802197" />
+### 🛠 Commands used
+```bash
+git checkout -b bugfix
+git commit
+git checkout main
+git commit
+git checkout bugfix
+git rebase main
+```
+
+
