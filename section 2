@@ -3,5 +3,4 @@ Level 1:Detach yo' HEAD
 HEAD usually points to a branch (like main)
 Checking out a commit hash detaches HEAD
 Branches remain unchanged while HEAD moves
-Useful for inspecting or debugging older commits
-
+Useful for inspecting or debugging older comm
